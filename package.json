@@ -12,6 +12,7 @@
     "element-ui": "^2.9.1",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.4",
+    "vue-m-quill-editor": "^1.0.1",
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
